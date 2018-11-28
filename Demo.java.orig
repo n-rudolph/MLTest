@@ -1,0 +1,9 @@
+public class Demo {
+<<<<<<< HEAD
+	public static void main (String args) {
+
+	
+=======
+
+>>>>>>> 2c4b4d89fcfe227f40506e58ad47b8bc4c47915e
+}
